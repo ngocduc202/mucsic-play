@@ -60,6 +60,27 @@ const app = {
         "./asset/img/img41.png"
     },
     {
+      name: "Đế vương    ",
+      singer: "Đình Dũng  ",
+      path: "./asset/music/song43.mp3",
+      image:
+        "./asset/img/img44.png"
+    },
+    {
+      name: "Biết tìm đâu  ",
+      singer: "Tuấn Hưng ",
+      path: "./asset/music/song44.mp3",
+      image:
+        "./asset/img/img45.png"
+    },
+    {
+      name: "Không bằng    ",
+      singer: "Na  ",
+      path: "./asset/music/song45.mp3",
+      image:
+        "./asset/img/img46.png"
+    },
+    {
       name: "Vách ngọc ngà ",
       singer: "Hương ly cover",
       path: "./asset/music/song4.mp3",
