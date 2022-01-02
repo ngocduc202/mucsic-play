@@ -117,6 +117,20 @@ const app = {
         "./asset/img/img9.png"
     },
     {
+      name: "Tình thương phu thê ",
+      singer: "Chí Hướng",
+      path: "./asset/music/song46.mp3",
+      image:
+        "./asset/img/img47.png"
+    },
+    {
+      name: "Đổi tình đổi áo đổi anh   ",
+      singer: "Thành Đạt",
+      path: "./asset/music/song47.mp3",
+      image:
+        "./asset/img/img48.png"
+    },
+    {
       name: "Maroon 5 - 'Memories'  ",
       singer: "Cover by. Blue.D",
       path: "./asset/music/song10.mp3",
