@@ -131,32 +131,11 @@ const app = {
         "./asset/img/img48.png"
     },
     {
-      name: "Maroon 5 - 'Memories'  ",
-      singer: "Cover by. Blue.D",
-      path: "./asset/music/song10.mp3",
+      name: "Chạnh lòng mà thương cô 2   ",
+      singer: "Huy Vạc",
+      path: "./asset/music/song48.mp3",
       image:
-        "./asset/img/img10.png"
-    },
-    {
-      name: "Leemon Tree ",
-      singer: "DJ DESA Remix",
-      path: "./asset/music/song11.mp3",
-      image:
-        "./asset/img/img11.png"
-    },
-    {
-      name: "Play Date  ",
-      singer: "Melanie Martinez",
-      path: "./asset/music/song12.mp3",
-      image:
-        "./asset/img/img12.png"
-    },
-    {
-      name: "Lalala ",
-      singer: "Naughty boy",
-      path: "./asset/music/song13.mp3",
-      image:
-        "./asset/img/img13.png"
+        "./asset/img/img49.png"
     },
     {
       name: "Gác lại lo âu  ",
@@ -171,20 +150,6 @@ const app = {
       path: "./asset/music/song15.mp3",
       image:
         "./asset/img/img15.png"
-    },
-    {
-      name: "At my worst ",
-      singer: "Pink Sweat $",
-      path: "./asset/music/song16.mp3",
-      image:
-        "./asset/img/img16.png"
-    },
-    {
-      name: "Dancing with your ghost  ",
-      singer: "Sasha Sloan",
-      path: "./asset/music/song17.mp3",
-      image:
-        "./asset/img/img17.png"
     },
     {
       name: "Anh có muốn đưa em về không  ",
@@ -347,7 +312,6 @@ const app = {
       image:
         "./asset/img/img40.png"
     },
-
     {
       name: "Không phải dạng vừa đâu  ",
       singer: "Mộc vy cover ",
@@ -356,11 +320,46 @@ const app = {
         "./asset/img/img42.png"
     },
     {
-      name: "Khuôn mặt đáng thương  ",
-      singer: "Sơn tùng MTP  ",
-      path: "./asset/music/song43.mp3",
+      name: "At my worst ",
+      singer: "Pink Sweat $",
+      path: "./asset/music/song16.mp3",
       image:
-        "./asset/img/img43.png"
+        "./asset/img/img16.png"
+    },
+    {
+      name: "Dancing with your ghost  ",
+      singer: "Sasha Sloan",
+      path: "./asset/music/song17.mp3",
+      image:
+        "./asset/img/img17.png"
+    },
+    {
+      name: "Maroon 5 - 'Memories'  ",
+      singer: "Cover by. Blue.D",
+      path: "./asset/music/song10.mp3",
+      image:
+        "./asset/img/img10.png"
+    },
+    {
+      name: "Leemon Tree ",
+      singer: "DJ DESA Remix",
+      path: "./asset/music/song11.mp3",
+      image:
+        "./asset/img/img11.png"
+    },
+    {
+      name: "Play Date  ",
+      singer: "Melanie Martinez",
+      path: "./asset/music/song12.mp3",
+      image:
+        "./asset/img/img12.png"
+    },
+    {
+      name: "Lalala ",
+      singer: "Naughty boy",
+      path: "./asset/music/song13.mp3",
+      image:
+        "./asset/img/img13.png"
     },
   ],
   setConfig: function (key, value) {
