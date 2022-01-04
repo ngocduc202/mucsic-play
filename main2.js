@@ -117,6 +117,13 @@ const app = {
         "./asset/img/img9.png"
     },
     {
+      name: "Lỗi tại anh ",
+      singer: "ALEX Lam",
+      path: "./asset/music/song49.mp3",
+      image:
+        "./asset/img/img50.png"
+    },
+    {
       name: "Tình thương phu thê ",
       singer: "Chí Hướng",
       path: "./asset/music/song46.mp3",
