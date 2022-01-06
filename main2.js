@@ -145,6 +145,13 @@ const app = {
         "./asset/img/img49.png"
     },
     {
+      name: "Câu hứa chưa vẹn tròn   ",
+      singer: "Phát Huy T4 ",
+      path: "./asset/music/song50.mp3",
+      image:
+        "./asset/img/img51.png"
+    },
+    {
       name: "Gác lại lo âu  ",
       singer: "DA LAB ft.Miu Lê",
       path: "./asset/music/song14.mp3",
