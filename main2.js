@@ -103,18 +103,18 @@ const app = {
         "./asset/img/img6.png"
     },
     {
-      name: "Váy cưới   ",
-      singer: "Trung Tự",
-      path: "./asset/music/song8.mp3",
-      image:
-        "./asset/img/img8.png"
-    },
-    {
       name: "Đường tôi chở em về  ",
       singer: "Bùi Trường Linh",
       path: "./asset/music/song9.mp3",
       image:
         "./asset/img/img9.png"
+    },
+    {
+      name: "Váy cưới   ",
+      singer: "Trung Tự",
+      path: "./asset/music/song8.mp3",
+      image:
+        "./asset/img/img8.png"
     },
     {
       name: "Lỗi tại anh ",
@@ -150,6 +150,20 @@ const app = {
       path: "./asset/music/song50.mp3",
       image:
         "./asset/img/img51.png"
+    },
+    {
+      name: "Thay lòng",
+      singer: "Nal ,Hương Ly",
+      path: "./asset/music/song51.mp3",
+      image:
+        "./asset/img/img52.png"
+    },
+    {
+      name: "Run Free   ",
+      singer: "Deep chill ",
+      path: "./asset/music/song52.mp3",
+      image:
+        "./asset/img/img53.png"
     },
     {
       name: "Gác lại lo âu  ",
